@@ -1,6 +1,8 @@
 ### `PYTEL` Based on Pyrogram
 > with asynchronous I/O - Python 3 MTProto library to interact with Telegram's API.
 
+### It is no longer updated
+
 ### Fitures
   * Multi Client `SESSION`
   * ChatGPT `Open AI`
